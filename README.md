@@ -1,7 +1,7 @@
 # Password Strength Tester - APP 
 
 ### About the developer:
-Hello everyone, my name is Isaac Veneruci de Oliveira, a cybersecurity student and a passionate enthusiast for securing systems. This is the first project out of nine that I have commited to developing this year, ranging from the simplest to the most challenging. So, stay tuned for innovative projects in the cybersecurity realm.
+Hello everyone, my name is Isaac Venerucci de Oliveira, a cybersecurity student and a passionate enthusiast for securing systems. This is the first project out of nine that I have commited to developing this year, ranging from the simplest to the most challenging. So, stay tuned for innovative projects in the cybersecurity realm.
 
 ### Level
 Beginner
