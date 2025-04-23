@@ -55,7 +55,7 @@ After downloading it, follow the steps below:
 
 >PS: It's necessary that you have python installed in your computer in order to make the application work, if you don't have it installed yet, you can download it from python's official website (https://www.python.org/).
 
-## Suport
+## Support
 
 If you have any questions about the app that were not addressed in this introduction, feel free to reach out to me through Github or by email at (veneruci@gmail.com).
 
